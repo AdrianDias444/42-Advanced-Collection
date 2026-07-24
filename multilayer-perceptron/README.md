@@ -1,11 +1,12 @@
 # MultiLayer-Perceptron
 
 
-##### A  *Multilayer Perceptron* is an artificial neural network composed of layers of *perceptrons*, based on a *feedforward* architecture. Each *perceptron* performs arithmetic operations with previously defined *weights* plus a fixed *bias() term, and applies a *nonlinear* *activation function*.
+##### A  *Multilayer Perceptron* is an artificial neural network composed of layers of *perceptrons*, based on a *feedforward* architecture. Each *perceptron* performs arithmetic operations with previously defined *weights* plus a fixed *bias* term, and applies a *nonlinear* *activation function*.
 
 
 
 ![Multilayer Perceptron](image4.png)
+![Perceptron](image5.png)
 
 
 
