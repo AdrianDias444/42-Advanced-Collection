@@ -13,4 +13,11 @@
     Before making the rendering you need to parse the vertices of the object.
 
 ## External Libraries
-    You can use libraries to create a window where you will represent the object rendered. A mini Blender or better, only the viewport page I think. The subject also says that you can use libraries for event management, I have no idea what this means. Probably "You need to figure it out by yourself."
+    You can use libraries to create a window where you
+    will represent the object rendered.
+    A mini Blender or better,
+    only the viewport page I think.
+    The subject also says that you can use libraries
+    for event management, 
+    I have no idea what this means.
+    Probably "You need to figure it out by yourself."
